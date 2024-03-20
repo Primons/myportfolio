@@ -1,0 +1,29 @@
+h1{font-family: cursive;}
+img{width: 300px;
+height:300px;
+float:left;
+border-radius:200px;}
+
+.fig{background-color:rgb(85, 81, 66);
+display: block;
+width:350px;
+height:400px;
+}
+
+.position{
+height: 400px;
+}
+
+.position, .fig{display: inline-block;}
+
+
+
+a:visited{color:blue;}
+a:active{color:blue ;}
+a:hover{color:blue ;}
+
+ul{padding-bottom: 40px;
+padding-left: 0cap;
+padding-top: 50px;
+padding-right:200px;
+}
